@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo SnackBar</string>
+    <string name="snack_time">Snack Time!</string>
+</resources>
